@@ -6,7 +6,7 @@ This repository contains a collection of Bash shell scripts designed to automate
 # Prerequisites
 1. Ensure you have Bash installed on your Linux system (most distributions include it by default).
 2. Make the scripts executable by running chmod +x <script_name>.sh for each script.
-3. Ensure you have appropriate permissions to read/write to the directories used by the scripts (e.g., /home/harsh/backup, /home/harsh/monitoring_logs, /home/harsh/downloads).
+3. Ensure you have appropriate permissions to read/write to the directories used by the scripts 
 4. For the download script, wget must be installed (sudo apt install wget on Debian-based systems).
 # General Usage
 1. Run scripts from the command line in a terminal.
