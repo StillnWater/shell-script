@@ -3,7 +3,7 @@
 # Date: 13/11/25 
 # --- Script to log CPU and memory usage to a file at regular intervals --- 
 # log file path 
-log_file_path="/home/harsh/monitoring_logs " 
+log_file_path="/home/manas/monitoring_logs " 
 log_file="$log_file_path/sys_monitoring.log" 
 # interval in seconds (default: 5) 
 interval=5 
